@@ -6,15 +6,38 @@ Loops allow you to execute a block of code repeatedly, making your programs effi
 
 ---
 
-## 📂 Project Structure
+## 📂 Day 1 Project Structure
 
-This repository contains structured, beginner-friendly Python scripts that cover everything from basic loops to advanced looping patterns:
+All scripts have been organized into the **`day1/`** directory:
 
-*   **[`01_for_loops.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/01_for_loops.py)**: Learn how to iterate over ranges, lists, strings, and dictionaries using `for` loops.
-*   **[`02_while_loops.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/02_while_loops.py)**: Understand condition-based repetition, user input validation, and how to avoid infinite loops.
-*   **[`03_loop_control.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/03_loop_control.py)**: Master loop modifiers like `break`, `continue`, `pass`, and the unique Python `else` clause in loops.
-*   **[`04_nested_loops.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/04_nested_loops.py)**: Learn how to place loops inside loops to build grids, patterns, and matrices.
-*   **[`05_loop_challenges.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/05_loop_challenges.py)**: Test your knowledge with 5 practical challenges (with solutions included in `05_loop_challenges_solutions.py`).
+*   **[`day1/01_for_loops.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day1/01_for_loops.py)**: Learn how to iterate over ranges, lists, strings, and dictionaries using `for` loops.
+*   **[`day1/02_while_loops.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day1/02_while_loops.py)**: Understand condition-based repetition, user input validation, and how to avoid infinite loops.
+*   **[`day1/03_loop_control.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day1/03_loop_control.py)**: Master loop modifiers like `break`, `continue`, `pass`, and the unique Python `else` clause in loops.
+*   **[`day1/04_nested_loops.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day1/04_nested_loops.py)**: Learn how to place loops inside loops to build grids, patterns, and matrices.
+*   **[`day1/05_loop_challenges.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day1/05_loop_challenges.py)**: Test your knowledge with 5 practical challenges.
+*   **[`day1/05_loop_challenges_solutions.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day1/05_loop_challenges_solutions.py)**: Solutions to the 5 challenges.
+
+### 🌟 NxtWave Challenge Submissions:
+*   [print_n_zeroes.py](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day1/print_n_zeroes.py)
+*   [print_1_to_n.py](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day1/print_1_to_n.py)
+*   [print_next_10_numbers.py](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day1/print_next_10_numbers.py)
+*   [read_and_print_n_numbers.py](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day1/read_and_print_n_numbers.py)
+*   [sum_first_n_numbers.py](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day1/sum_first_n_numbers.py)
+*   [sum_n_inputs.py](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day1/sum_n_inputs.py)
+*   [average_of_n_numbers.py](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day1/average_of_n_numbers.py)
+*   [print_1_to_n_while.py](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day1/print_1_to_n_while.py)
+*   [print_n_numbers_from_m.py](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day1/print_n_numbers_from_m.py)
+*   [print_cubes_1_to_n.py](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day1/print_cubes_1_to_n.py)
+*   [print_star_triangle.py](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day1/print_star_triangle.py)
+*   [print_m_to_n.py](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day1/print_m_to_n.py)
+
+---
+
+## 🏆 NxtWave Portal Progress
+
+Here is our NxtWave portal status showing all loops challenges solved:
+
+![NxtWave Progress](day1/nxtwave_challenges.png)
 
 ---
 
@@ -22,42 +45,11 @@ This repository contains structured, beginner-friendly Python scripts that cover
 
 1.  Make sure you have **Python** installed on your system.
 2.  Open your terminal or command prompt.
-3.  Navigate to this project folder.
+3.  Navigate to the `day1` directory:
+    ```bash
+    cd day1
+    ```
 4.  Run any of the scripts using the Python command:
     ```bash
     python <filename>.py
     ```
-    For example:
-    ```bash
-    python 01_for_loops.py
-    ```
-
----
-
-## 🌐 How to Upload (Push) this Code to GitHub
-
-We have initialized a local Git repository for you. To upload your code to GitHub, follow these simple steps:
-
-### 1. Create a Repository on GitHub
-1. Go to [github.com](https://github.com) and log in.
-2. Click the **New** button (or "+" icon in the top-right) to create a new repository.
-3. Name your repository: **`python-loops-mastery`**.
-4. Keep the repository **Public** (or Private if you prefer).
-5. **Do NOT** check any options like "Add a README file", "Add .gitignore", or "Choose a license" (we have already created these files locally).
-6. Click **Create repository**.
-
-### 2. Link Local Repository to GitHub and Push
-Copy the URL of your new GitHub repository (e.g., `https://github.com/YOUR_USERNAME/python-loops-mastery.git`) and run the following commands in your terminal inside this folder:
-
-```bash
-# 1. Rename the default branch to 'main'
-git branch -M main
-
-# 2. Add your GitHub repository as the remote destination
-git remote add origin https://github.com/YOUR_USERNAME/python-loops-mastery.git
-
-# 3. Push your code to GitHub
-git push -u origin main
-```
-
-Once pushed, refresh your GitHub page to see all your code and this beautiful README online! Happy coding! 🚀
