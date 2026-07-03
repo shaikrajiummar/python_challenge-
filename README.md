@@ -38,6 +38,7 @@ All scripts have been organized into the **`day1/`** directory:
 All scripts for Day 2 are organized into the **`day2/`** directory:
 
 *   **[`day2/print_triangle_pattern.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day2/print_triangle_pattern.py)**: Prints a right-angled triangle pattern of stars (`*`) of height N.
+*   **[`day2/print_rectangle_pattern.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day2/print_rectangle_pattern.py)**: Prints a solid rectangle pattern of stars (`*`) with height M and width N.
 
 ---
 
