@@ -40,6 +40,7 @@ All scripts for Day 2 are organized into the **`day2/`** directory:
 *   **[`day2/print_triangle_pattern.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day2/print_triangle_pattern.py)**: Prints a right-angled triangle pattern of stars (`*`) of height N.
 *   **[`day2/print_rectangle_pattern.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day2/print_rectangle_pattern.py)**: Prints a solid rectangle pattern of stars (`*`) with height M and width N.
 *   **[`day2/print_number_square_pattern.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day2/print_number_square_pattern.py)**: Prints an N x N square pattern of row numbers.
+*   **[`day2/print_triangle_with_pluses.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day2/print_triangle_with_pluses.py)**: Prints a triangle of stars (`* `) of height N-1, with a base of pluses (`+ `) of length N.
 
 ---
 
