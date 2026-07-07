@@ -54,6 +54,7 @@ All scripts for Day 3 are organized into the **`day3/`** directory:
 *   **[`day3/average_of_n_numbers.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day3/average_of_n_numbers.py)**: Calculates the average of numbers from 1 to N.
 *   **[`day3/print_first_character.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day3/print_first_character.py)**: Reads a string and prints its first character as many times as the length of the string.
 *   **[`day3/product_of_n_inputs.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day3/product_of_n_inputs.py)**: Reads N numbers and calculates their product.
+*   **[`day3/print_rectangle_pattern_with_spaces.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day3/print_rectangle_pattern_with_spaces.py)**: Prints a rectangle of stars (`* `) of height M and width N using nested loops.
 
 ---
 
