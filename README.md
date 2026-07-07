@@ -61,9 +61,11 @@ All scripts for Day 3 are organized into the **`day3/`** directory:
 
 ## 🏆 NxtWave Portal Progress
 
-Here is our NxtWave portal status showing all loops challenges solved:
+### Day 1 Progress:
+![Day 1 NxtWave Progress](day1/nxtwave_challenges.png)
 
-![NxtWave Progress](day1/nxtwave_challenges.png)
+### Day 3 Progress:
+![Day 3 NxtWave Progress](day3/nxtwave_challenges_day3.png)
 
 ---
 
