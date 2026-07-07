@@ -52,6 +52,7 @@ All scripts for Day 3 are organized into the **`day3/`** directory:
 *   **[`day3/print_cubes_1_to_n.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day3/print_cubes_1_to_n.py)**: Prints the cube of each number from 1 to N.
 *   **[`day3/sum_first_n_numbers.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day3/sum_first_n_numbers.py)**: Calculates the sum of numbers from 1 to N.
 *   **[`day3/average_of_n_numbers.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day3/average_of_n_numbers.py)**: Calculates the average of numbers from 1 to N.
+*   **[`day3/print_first_character.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day3/print_first_character.py)**: Reads a string and prints its first character as many times as the length of the string.
 
 ---
 
