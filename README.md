@@ -44,6 +44,14 @@ All scripts for Day 2 are organized into the **`day2/`** directory:
 
 ---
 
+## 📂 Day 3 Project Structure
+
+All scripts for Day 3 are organized into the **`day3/`** directory:
+
+*   **[`day3/print_1_to_n.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day3/print_1_to_n.py)**: Prints numbers from 1 to N.
+
+---
+
 ## 🏆 NxtWave Portal Progress
 
 Here is our NxtWave portal status showing all loops challenges solved:
