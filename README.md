@@ -69,6 +69,7 @@ All scripts for Day 4 are organized into the **`day4/`** directory:
 *   **[`day4/print_number_triangle.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day4/print_number_triangle.py)**: Prints a right-angled triangle pattern of row numbers.
 *   **[`day4/cumulative_sum_m_to_n.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day4/cumulative_sum_m_to_n.py)**: Prints the running sum of all integers from M to N.
 *   **[`day4/sum_of_numbers_m_to_n.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day4/sum_of_numbers_m_to_n.py)**: Calculates the sum of all integers from M to N.
+*   **[`day4/print_star_triangle_with_pluses.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day4/print_star_triangle_with_pluses.py)**: Prints a triangle of stars (`* `) of height N-1 and a base of pluses (`+ `) of length N using nested loops.
 
 ---
 
