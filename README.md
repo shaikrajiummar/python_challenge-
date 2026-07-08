@@ -59,6 +59,14 @@ All scripts for Day 3 are organized into the **`day3/`** directory:
 
 ---
 
+## 📂 Day 4 Project Structure
+
+All scripts for Day 4 are organized into the **`day4/`** directory:
+
+*   **[`day4/print_triangle_pattern.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day4/print_triangle_pattern.py)**: Prints a right-angled triangle pattern of stars (`*`) of height N.
+
+---
+
 ## 🏆 NxtWave Portal Progress
 
 ### Day 1 Progress:
