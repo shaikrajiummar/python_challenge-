@@ -83,6 +83,7 @@ All scripts for Day 5 are organized into the **`day5/`** directory:
 *   **[`day5/print_0_to_n.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day5/print_0_to_n.py)**: Prints numbers from 0 to N.
 *   **[`day5/product_of_numbers_m_to_n.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day5/product_of_numbers_m_to_n.py)**: Calculates the product of all integers from M to N.
 *   **[`day5/sum_of_squares_1_to_n.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day5/sum_of_squares_1_to_n.py)**: Calculates the sum of squares of numbers from 1 to N.
+*   **[`day5/print_n_to_1_reverse.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day5/print_n_to_1_reverse.py)**: Prints numbers from N down to 1.
 
 ---
 
