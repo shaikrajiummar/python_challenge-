@@ -81,6 +81,7 @@ All scripts for Day 5 are organized into the **`day5/`** directory:
 *   **[`day5/print_number_rectangle.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day5/print_number_rectangle.py)**: Prints an M x N rectangle of row numbers.
 *   **[`day5/print_two_triangles.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day5/print_two_triangles.py)**: Prints two identical star triangles (`* `) of height N.
 *   **[`day5/print_0_to_n.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day5/print_0_to_n.py)**: Prints numbers from 0 to N.
+*   **[`day5/product_of_numbers_m_to_n.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day5/product_of_numbers_m_to_n.py)**: Calculates the product of all integers from M to N.
 
 ---
 
