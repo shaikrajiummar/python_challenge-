@@ -99,6 +99,9 @@ All scripts for Day 5 are organized into the **`day5/`** directory:
 ### Day 4 Progress:
 ![Day 4 NxtWave Progress](day4/nxtwave_challenges_day4.png)
 
+### Day 5 Progress:
+![Day 5 NxtWave Progress](day5/nxtwave_challenges_day5.png)
+
 ---
 
 ## 🚀 How to Run the Code
