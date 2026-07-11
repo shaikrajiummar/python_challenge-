@@ -74,6 +74,14 @@ All scripts for Day 4 are organized into the **`day4/`** directory:
 
 ---
 
+## 📂 Day 5 Project Structure
+
+All scripts for Day 5 are organized into the **`day5/`** directory:
+
+*   **[`day5/print_number_rectangle.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day5/print_number_rectangle.py)**: Prints an M x N rectangle of row numbers.
+
+---
+
 ## 🏆 NxtWave Portal Progress
 
 ### Day 1 Progress:
