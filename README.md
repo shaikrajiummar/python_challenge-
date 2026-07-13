@@ -88,6 +88,14 @@ All scripts for Day 5 are organized into the **`day5/`** directory:
 
 ---
 
+## 📂 Day 6 Project Structure
+
+All scripts for Day 6 are organized into the **`day6/`** directory:
+
+*   **[`day6/sum_evens_m_to_n.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day6/sum_evens_m_to_n.py)**: Calculates the sum of all even numbers between M and N.
+
+---
+
 ## 🏆 NxtWave Portal Progress
 
 ### Day 1 Progress:
