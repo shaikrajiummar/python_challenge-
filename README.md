@@ -93,6 +93,7 @@ All scripts for Day 5 are organized into the **`day5/`** directory:
 All scripts for Day 6 are organized into the **`day6/`** directory:
 
 *   **[`day6/sum_evens_m_to_n.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day6/sum_evens_m_to_n.py)**: Calculates the sum of all even numbers between M and N.
+*   **[`day6/product_odds_m_to_n.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day6/product_odds_m_to_n.py)**: Calculates the product of all odd numbers between M and N.
 
 ---
 
