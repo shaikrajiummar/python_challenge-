@@ -100,6 +100,7 @@ All scripts for Day 6 are organized into the **`day6/`** directory:
 *   **[`day6/print_evens_1_to_n.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day6/print_evens_1_to_n.py)**: Prints all even numbers between 1 and N.
 *   **[`day6/sum_evens_1_to_n.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day6/sum_evens_1_to_n.py)**: Calculates the sum of all even numbers between 1 and N.
 *   **[`day6/sum_odds_1_to_n.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day6/sum_odds_1_to_n.py)**: Calculates the sum of all odd numbers between 1 and N.
+*   **[`day6/print_digits_with_spaces.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day6/print_digits_with_spaces.py)**: Prints all digits of a number separated by spaces.
 
 ---
 
