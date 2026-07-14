@@ -107,6 +107,14 @@ All scripts for Day 6 are organized into the **`day6/`** directory:
 
 ---
 
+## 📂 Day 7 Project Structure
+
+All scripts for Day 7 are organized into the **`day7/`** directory:
+
+*(Awaiting scripts...)*
+
+---
+
 ## 🏆 NxtWave Portal Progress
 
 ### Day 1 Progress:
