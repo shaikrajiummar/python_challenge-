@@ -128,6 +128,7 @@ All scripts for Day 7 are organized into the **`day7/`** directory:
 ### 📝 Day 7 Assignment Structure
 
 *   **[`day7/assignment/product_multiples_of_3.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day7/assignment/product_multiples_of_3.py)**: Calculates the product of numbers divisible by 3 between M and N.
+*   **[`day7/assignment/sum_of_kth_powers.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day7/assignment/sum_of_kth_powers.py)**: Calculates the sum of Kth powers of numbers from 1 to N.
 
 ---
 
