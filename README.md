@@ -116,6 +116,7 @@ All scripts for Day 7 are organized into the **`day7/`** directory:
 *   **[`day7/print_a_and_z.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day7/print_a_and_z.py)**: Iterates over a string and prints characters that are 'a' or 'z'.
 *   **[`day7/print_vowels.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day7/print_vowels.py)**: Iterates over a string and prints all vowels.
 *   **[`day7/count_divisible_by_2_and_3.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day7/count_divisible_by_2_and_3.py)**: Counts how many numbers between 1 and N are divisible by both 2 and 3.
+*   **[`day7/print_n_to_m_reverse.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day7/print_n_to_m_reverse.py)**: Prints numbers from N down to M.
 
 ---
 
