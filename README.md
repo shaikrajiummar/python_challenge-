@@ -133,6 +133,7 @@ All scripts for Day 7 are organized into the **`day7/`** directory:
 *   **[`day7/assignment/inverted_triangle_with_pluses.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day7/assignment/inverted_triangle_with_pluses.py)**: Prints an inverted triangle of stars (first row) and pluses (rest of the rows).
 *   **[`day7/assignment/combined_star_triangles.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day7/assignment/combined_star_triangles.py)**: Prints combined right-angled and inverted star triangles.
 *   **[`day7/assignment/calculate_power.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day7/assignment/calculate_power.py)**: Calculates N raised to the power of M using a loop.
+*   **[`day7/assignment/product_m_to_n.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day7/assignment/product_m_to_n.py)**: Calculates the product of all numbers between M and N.
 
 ---
 
