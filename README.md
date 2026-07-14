@@ -111,7 +111,7 @@ All scripts for Day 6 are organized into the **`day6/`** directory:
 
 All scripts for Day 7 are organized into the **`day7/`** directory:
 
-*(Awaiting scripts...)*
+*   **[`day7/print_multiples_of_t.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day7/print_multiples_of_t.py)**: Prints all multiples of T between 1 and N.
 
 ---
 
