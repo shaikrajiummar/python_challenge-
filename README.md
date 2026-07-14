@@ -125,6 +125,10 @@ All scripts for Day 7 are organized into the **`day7/`** directory:
 *   **[`day7/count_multiples_of_t.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day7/count_multiples_of_t.py)**: Counts how many multiples of T are between 1 and N.
 *   **[`day7/sum_multiples_of_t_m_to_n.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day7/sum_multiples_of_t_m_to_n.py)**: Calculates the sum of all multiples of T between M and N.
 
+### 📝 Day 7 Assignment Structure
+
+*   **[`day7/assignment/product_multiples_of_3.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day7/assignment/product_multiples_of_3.py)**: Calculates the product of numbers divisible by 3 between M and N.
+
 ---
 
 ## 🏆 NxtWave Portal Progress
