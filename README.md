@@ -118,6 +118,7 @@ All scripts for Day 7 are organized into the **`day7/`** directory:
 *   **[`day7/count_divisible_by_2_and_3.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day7/count_divisible_by_2_and_3.py)**: Counts how many numbers between 1 and N are divisible by both 2 and 3.
 *   **[`day7/print_n_to_m_reverse.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day7/print_n_to_m_reverse.py)**: Prints numbers from N down to M.
 *   **[`day7/print_string_reverse.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day7/print_string_reverse.py)**: Prints characters of a string in reverse order.
+*   **[`day7/print_odds_reverse_n_to_m.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day7/print_odds_reverse_n_to_m.py)**: Prints odd numbers from N down to M.
 
 ---
 
