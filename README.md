@@ -114,6 +114,7 @@ All scripts for Day 7 are organized into the **`day7/`** directory:
 *   **[`day7/print_multiples_of_t.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day7/print_multiples_of_t.py)**: Prints all multiples of T between 1 and N.
 *   **[`day7/print_inverted_triangle.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day7/print_inverted_triangle.py)**: Prints an inverted right-angled star triangle of height N.
 *   **[`day7/print_a_and_z.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day7/print_a_and_z.py)**: Iterates over a string and prints characters that are 'a' or 'z'.
+*   **[`day7/print_vowels.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day7/print_vowels.py)**: Iterates over a string and prints all vowels.
 
 ---
 
