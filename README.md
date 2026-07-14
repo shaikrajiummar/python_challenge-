@@ -123,6 +123,7 @@ All scripts for Day 7 are organized into the **`day7/`** directory:
 *   **[`day7/print_n_to_1_reverse.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day7/print_n_to_1_reverse.py)**: Prints numbers from N down to 1.
 *   **[`day7/count_vowels.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day7/count_vowels.py)**: Counts the number of vowels in a string.
 *   **[`day7/count_multiples_of_t.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day7/count_multiples_of_t.py)**: Counts how many multiples of T are between 1 and N.
+*   **[`day7/sum_multiples_of_t_m_to_n.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day7/sum_multiples_of_t_m_to_n.py)**: Calculates the sum of all multiples of T between M and N.
 
 ---
 
