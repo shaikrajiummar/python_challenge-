@@ -147,6 +147,7 @@ All scripts for Day 8 are organized into the **`day8/`** directory:
 *   **[`day8/armstrong_number.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day8/armstrong_number.py)**: Checks if a number N is an Armstrong number.
 *   **[`day8/greatest_number.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day8/greatest_number.py)**: Finds the greatest number among N inputs.
 *   **[`day8/print_factors.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day8/print_factors.py)**: Prints all the factors of a number N on a single line.
+*   **[`day8/perfect_number.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day8/perfect_number.py)**: Checks if N is a perfect number.
 
 ---
 
