@@ -157,6 +157,7 @@ All scripts for Day 8 are organized into the **`day8/`** directory:
 *   **[`day8/check_vowels_count.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day8/check_vowels_count.py)**: Checks if a string has more than two vowels.
 *   **[`day8/check_divisible_number.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day8/check_divisible_number.py)**: Checks if a number N is divisible by any single-digit number (2 to 9).
 *   **[`day8/smallest_number.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day8/smallest_number.py)**: Finds the smallest number among N inputs.
+*   **[`day8/multiples_of_6_m_to_n.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day8/multiples_of_6_m_to_n.py)**: Finds all numbers divisible by 6 between M and N.
 
 ---
 
