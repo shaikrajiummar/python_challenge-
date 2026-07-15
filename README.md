@@ -150,6 +150,7 @@ All scripts for Day 8 are organized into the **`day8/`** directory:
 *   **[`day8/perfect_number.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day8/perfect_number.py)**: Checks if N is a perfect number.
 *   **[`day8/vowels_sequence.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day8/vowels_sequence.py)**: Prints all vowels found in N as a single string.
 *   **[`day8/sum_of_powered_digits.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day8/sum_of_powered_digits.py)**: Calculates the sum of digits raised to the power of the number of digits.
+*   **[`day8/print_factors_line_by_line.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day8/print_factors_line_by_line.py)**: Prints factors of N, each on a new line.
 
 ---
 
