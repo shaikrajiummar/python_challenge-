@@ -190,6 +190,9 @@ All scripts for Day 8 are organized into the **`day8/`** directory:
 ### Day 6 Progress:
 ![Day 6 NxtWave Progress](day6/nxtwave_challenges_day6.png)
 
+### Day 8 Progress:
+![Day 8 NxtWave Progress](day8/nxtwave_challenges_day8.png)
+
 ---
 
 ## 🚀 How to Run the Code
