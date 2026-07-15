@@ -144,6 +144,7 @@ All scripts for Day 8 are organized into the **`day8/`** directory:
 *   **[`day8/sum_of_factors.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day8/sum_of_factors.py)**: Calculates the sum of all factors of N.
 *   **[`day8/reverse_string_prepend.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day8/reverse_string_prepend.py)**: Reverses an input string by prepending characters one by one.
 *   **[`day8/multiplication_table.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day8/multiplication_table.py)**: Prints the multiplication table for N from 1 to 10.
+*   **[`day8/armstrong_number.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day8/armstrong_number.py)**: Checks if a number N is an Armstrong number.
 
 ---
 
