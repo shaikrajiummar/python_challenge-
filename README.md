@@ -164,6 +164,7 @@ All scripts for Day 8 are organized into the **`day8/`** directory:
 *   **[`day8/count_digits_in_range.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day8/count_digits_in_range.py)**: Counts the total number of digits of all numbers between M and N.
 *   **[`day8/alternating_even_powers_sum.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day8/alternating_even_powers_sum.py)**: Calculates the alternating sum of even powers of x.
 *   **[`day8/right_aligned_star_triangle.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day8/right_aligned_star_triangle.py)**: Prints a right-aligned star triangle.
+*   **[`day8/right_aligned_star_triangle_spaces.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day8/right_aligned_star_triangle_spaces.py)**: Prints a right-aligned star triangle with double-space formatting.
 
 ---
 
