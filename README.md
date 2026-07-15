@@ -166,6 +166,7 @@ All scripts for Day 8 are organized into the **`day8/`** directory:
 *   **[`day8/right_aligned_star_triangle.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day8/right_aligned_star_triangle.py)**: Prints a right-aligned star triangle.
 *   **[`day8/right_aligned_star_triangle_spaces.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day8/right_aligned_star_triangle_spaces.py)**: Prints a right-aligned star triangle with double-space formatting.
 *   **[`day8/inverted_number_triangle.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day8/inverted_number_triangle.py)**: Prints an inverted, right-aligned triangle of numbers.
+*   **[`day8/inverted_number_triangle_spaces.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day8/inverted_number_triangle_spaces.py)**: Prints an inverted, right-aligned triangle of numbers with custom spacing.
 
 ---
 
