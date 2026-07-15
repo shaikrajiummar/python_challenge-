@@ -137,6 +137,14 @@ All scripts for Day 7 are organized into the **`day7/`** directory:
 
 ---
 
+## 📂 Day 8 Project Structure
+
+All scripts for Day 8 are organized into the **`day8/`** directory:
+
+*   **[`day8/sum_of_factors.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day8/sum_of_factors.py)**: Calculates the sum of all factors of N.
+
+---
+
 ## 🏆 NxtWave Portal Progress
 
 ### Day 1 Progress:
