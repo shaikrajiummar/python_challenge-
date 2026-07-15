@@ -6,11 +6,10 @@ count = 0
 div = ""
 
 # Loop from M to N and find numbers divisible by 6
-# Note: Corrected range to start at M instead of 1 to utilize variable M.
 for i in range(M, N + 1):
     if i % 6 == 0:
-        count += 1
-        div += str(i) + " "
+        count = count + 1
+        div = div + str(i) + " "
 
 # Check if any multiples of 6 were found
 if count == 0:
