@@ -161,6 +161,7 @@ All scripts for Day 8 are organized into the **`day8/`** directory:
 *   **[`day8/sum_of_ones_series.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day8/sum_of_ones_series.py)**: Calculates the sum of a repeated series of 1s (1 + 11 + 111 + ...).
 *   **[`day8/sum_of_twos_series.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day8/sum_of_twos_series.py)**: Calculates the sum of a repeated series of 2s (2 + 22 + 222 + ...).
 *   **[`day8/multiples_of_9_m_to_n.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day8/multiples_of_9_m_to_n.py)**: Finds all numbers divisible by 9 between M and N.
+*   **[`day8/count_digits_in_range.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day8/count_digits_in_range.py)**: Counts the total number of digits of all numbers between M and N.
 
 ---
 
