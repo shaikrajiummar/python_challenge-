@@ -154,6 +154,7 @@ All scripts for Day 8 are organized into the **`day8/`** directory:
 *   **[`day8/print_digit_2_triangle.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day8/print_digit_2_triangle.py)**: Prints a triangle pattern of repeated digit '2's.
 *   **[`day8/sum_of_squares_of_series.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day8/sum_of_squares_of_series.py)**: Calculates the sum of squares of repeated digit series.
 *   **[`day8/sum_of_series.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day8/sum_of_series.py)**: Calculates the sum of a repeated digit series (X + XX + XXX + ...).
+*   **[`day8/check_vowels_count.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day8/check_vowels_count.py)**: Checks if a string has more than two vowels.
 
 ---
 
