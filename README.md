@@ -187,6 +187,7 @@ All scripts for Day 9 are organized into the **`day9/`** directory:
 *   **[`day9/half_diamond_plus_hash.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day9/half_diamond_plus_hash.py)**: Prints a right-aligned half diamond made of pluses and hashes.
 *   **[`day9/half_diamond_number.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day9/half_diamond_number.py)**: Prints a left-aligned half diamond of numbers.
 *   **[`day9/star_pyramid.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day9/star_pyramid.py)**: Prints a centered star pyramid.
+*   **[`day9/inverted_star_pyramid_spaces.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day9/inverted_star_pyramid_spaces.py)**: Prints a centered inverted star pyramid.
 
 ---
 
