@@ -191,6 +191,7 @@ All scripts for Day 9 are organized into the **`day9/`** directory:
 *   **[`day9/count_digits_to_n.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day9/count_digits_to_n.py)**: Counts the total number of digits of all numbers from 1 to N.
 *   **[`day9/alternating_odd_powers_sum.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day9/alternating_odd_powers_sum.py)**: Calculates the alternating sum of odd powers of X.
 *   **[`day9/check_more_than_two_factors.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day9/check_more_than_two_factors.py)**: Checks if N has strictly more than two factors.
+*   **[`day9/stacked_star_triangles.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day9/stacked_star_triangles.py)**: Prints two stacked star triangles.
 
 ---
 
