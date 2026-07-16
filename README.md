@@ -218,6 +218,10 @@ All scripts for Day 9 are organized into the **`day9/`** directory:
 ### Day 8 Progress:
 ![Day 8 NxtWave Progress](day8/nxtwave_challenges_day8.png)
 
+### Day 9 Progress:
+![Day 9 NxtWave Progress Part 1](day9/nxtwave_challenges_day9_1.png)
+![Day 9 NxtWave Progress Part 2](day9/nxtwave_challenges_day9_2.png)
+
 ---
 
 ## 🚀 How to Run the Code
