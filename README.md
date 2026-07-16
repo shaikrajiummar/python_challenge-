@@ -183,6 +183,7 @@ All scripts for Day 9 are organized into the **`day9/`** directory:
 *   **[`day9/inverted_star_triangle_plus.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day9/inverted_star_triangle_plus.py)**: Prints an inverted star triangle topped with pluses.
 *   **[`day9/butterfly_pattern_top.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day9/butterfly_pattern_top.py)**: Prints the top half of a star butterfly pattern.
 *   **[`day9/double_star_pyramid.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day9/double_star_pyramid.py)**: Prints two adjacent star pyramids.
+*   **[`day9/butterfly_star_pattern.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day9/butterfly_star_pattern.py)**: Prints a full butterfly pattern made of stars.
 
 ---
 
