@@ -189,6 +189,7 @@ All scripts for Day 9 are organized into the **`day9/`** directory:
 *   **[`day9/star_pyramid.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day9/star_pyramid.py)**: Prints a centered star pyramid.
 *   **[`day9/inverted_star_pyramid_spaces.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day9/inverted_star_pyramid_spaces.py)**: Prints a centered inverted star pyramid.
 *   **[`day9/count_digits_to_n.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day9/count_digits_to_n.py)**: Counts the total number of digits of all numbers from 1 to N.
+*   **[`day9/alternating_odd_powers_sum.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day9/alternating_odd_powers_sum.py)**: Calculates the alternating sum of odd powers of X.
 
 ---
 
