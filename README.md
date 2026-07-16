@@ -173,6 +173,14 @@ All scripts for Day 8 are organized into the **`day8/`** directory:
 
 ---
 
+## 📂 Day 9 Project Structure
+
+All scripts for Day 9 are organized into the **`day9/`** directory:
+
+*   **[`day9/number_pyramid.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day9/number_pyramid.py)**: Prints a centered pyramid of numbers.
+
+---
+
 ## 🏆 NxtWave Portal Progress
 
 ### Day 1 Progress:
