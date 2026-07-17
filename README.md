@@ -203,6 +203,7 @@ All scripts for Day 9 are organized into the **`day9/`** directory:
 All scripts for Day 10 are organized into the **`day10/`** directory:
 
 *   **[`day10/hollow_right_aligned_triangle.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day10/hollow_right_aligned_triangle.py)**: Prints a hollow, right-aligned triangle of stars.
+*   **[`day10/hollow_pyramid.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day10/hollow_pyramid.py)**: Prints a hollow centered star pyramid.
 
 ---
 
