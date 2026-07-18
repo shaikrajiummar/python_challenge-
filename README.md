@@ -213,6 +213,14 @@ All scripts for Day 10 are organized into the **`day10/`** directory:
 
 ---
 
+## 📂 Day 11 Project Structure
+
+All scripts for Day 11 are organized into the **`day11/`** directory:
+
+*   **[`day11/hollow_number_diamond.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day11/hollow_number_diamond.py)**: Prints a hollow centered diamond pattern of numbers.
+
+---
+
 ## 🏆 NxtWave Portal Progress
 
 ### Day 1 Progress:
