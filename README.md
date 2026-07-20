@@ -221,6 +221,7 @@ All scripts for Day 11 are organized into the **`day11/`** directory:
 *   **[`day11/hollow_butterfly.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day11/hollow_butterfly.py)**: Prints a hollow butterfly pattern of stars.
 *   **[`day11/count_perfect_squares.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day11/count_perfect_squares.py)**: Counts all perfect square numbers in the range [A, B].
 *   **[`day11/solid_hollow_diamond.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day11/solid_hollow_diamond.py)**: Prints a diamond with a solid top pyramid and a hollow inverted bottom pyramid.
+*   **[`day11/right_aligned_star_triangle.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day11/right_aligned_star_triangle.py)**: Prints a right-aligned triangle of stars.
 
 ---
 
