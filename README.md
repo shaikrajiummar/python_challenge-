@@ -234,6 +234,7 @@ All scripts for Day 12 are organized into the **`day12/`** directory:
 *   **[`day12/solid_rectangle.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day12/solid_rectangle.py)**: Prints a solid rectangle of stars.
 *   **[`day12/sum_of_n_consecutive_numbers.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day12/sum_of_n_consecutive_numbers.py)**: Calculates the sum of N consecutive integers starting from M.
 *   **[`day12/solid_rectangle_plus.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day12/solid_rectangle_plus.py)**: Prints a solid rectangle of pluses.
+*   **[`day12/print_first_char_len_times.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day12/print_first_char_len_times.py)**: Prints the first character of a word N times.
 
 ---
 
