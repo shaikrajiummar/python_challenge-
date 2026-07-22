@@ -239,6 +239,7 @@ All scripts for Day 12 are organized into the **`day12/`** directory:
 *   **[`day12/print_each_character.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day12/print_each_character.py)**: Prints each character of a string on a new line.
 *   **[`day12/print_n_inputs.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day12/print_n_inputs.py)**: Reads and prints N inputs sequentially.
 *   **[`day12/sum_of_n_inputs.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day12/sum_of_n_inputs.py)**: Calculates the sum of N input numbers.
+*   **[`day12/print_numbers_m_to_n.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day12/print_numbers_m_to_n.py)**: Prints numbers from M to N.
 
 ---
 
