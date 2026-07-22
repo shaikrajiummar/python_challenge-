@@ -253,6 +253,7 @@ All scripts for Day 12 are organized into the **`day12/`** directory:
 *   **[`day12/butterfly_upper_half.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day12/butterfly_upper_half.py)**: Prints the upper half of a hollow butterfly with a solid bottom row.
 *   **[`day12/right_aligned_star_triangle.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day12/right_aligned_star_triangle.py)**: Prints a right-aligned triangle of stars.
 *   **[`day12/hollow_butterfly.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day12/hollow_butterfly.py)**: Prints a hollow butterfly pattern of stars.
+*   **[`day12/hollow_inverted_pyramid.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day12/hollow_inverted_pyramid.py)**: Prints a hollow inverted star pyramid.
 
 ---
 
