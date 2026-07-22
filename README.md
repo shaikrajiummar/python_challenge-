@@ -243,6 +243,7 @@ All scripts for Day 12 are organized into the **`day12/`** directory:
 *   **[`day12/solid_rectangle_no_spaces.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day12/solid_rectangle_no_spaces.py)**: Prints a solid rectangle of stars without spaces.
 *   **[`day12/print_next_ten_numbers.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day12/print_next_ten_numbers.py)**: Prints the next 10 numbers starting from N+1.
 *   **[`day12/sum_of_even_powers.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day12/sum_of_even_powers.py)**: Calculates the sum of even powers of X up to 2N.
+*   **[`day12/sum_of_odd_powers.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day12/sum_of_odd_powers.py)**: Calculates the sum of odd powers of X up to 2N-1.
 
 ---
 
