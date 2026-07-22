@@ -246,6 +246,9 @@ All scripts for Day 12 are organized into the **`day12/`** directory:
 *   **[`day12/sum_of_odd_powers.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day12/sum_of_odd_powers.py)**: Calculates the sum of odd powers of X up to 2N-1.
 *   **[`day12/right_aligned_triangle_star_hash.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day12/right_aligned_triangle_star_hash.py)**: Prints a right-aligned triangle with stars and a hash bottom row.
 *   **[`day12/hollow_rectangle.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day12/hollow_rectangle.py)**: Prints a hollow rectangle of stars.
+*   **[`day12/star_zero_square.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day12/star_zero_square.py)**: Prints a star-bordered square filled with zeros.
+*   **[`day12/number_square.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day12/number_square.py)**: Prints a square of sequential numbers.
+*   **[`day12/star_zero_rectangle.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day12/star_zero_rectangle.py)**: Prints a star-bordered rectangle filled with zeros.
 
 ---
 
