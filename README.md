@@ -249,6 +249,10 @@ All scripts for Day 12 are organized into the **`day12/`** directory:
 *   **[`day12/star_zero_square.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day12/star_zero_square.py)**: Prints a star-bordered square filled with zeros.
 *   **[`day12/number_square.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day12/number_square.py)**: Prints a square of sequential numbers.
 *   **[`day12/star_zero_rectangle.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day12/star_zero_rectangle.py)**: Prints a star-bordered rectangle filled with zeros.
+*   **[`day12/hollow_number_diamond.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day12/hollow_number_diamond.py)**: Prints a hollow centered diamond pattern of numbers.
+*   **[`day12/butterfly_upper_half.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day12/butterfly_upper_half.py)**: Prints the upper half of a hollow butterfly with a solid bottom row.
+*   **[`day12/right_aligned_star_triangle.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day12/right_aligned_star_triangle.py)**: Prints a right-aligned triangle of stars.
+*   **[`day12/hollow_butterfly.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day12/hollow_butterfly.py)**: Prints a hollow butterfly pattern of stars.
 
 ---
 
