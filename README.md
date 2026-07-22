@@ -230,6 +230,7 @@ All scripts for Day 11 are organized into the **`day11/`** directory:
 All scripts for Day 12 are organized into the **`day12/`** directory:
 
 *   **[`day12/print_numbers_1_to_n.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day12/print_numbers_1_to_n.py)**: Prints numbers from 1 to N.
+*   **[`day12/product_of_n_numbers.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/day12/product_of_n_numbers.py)**: Calculates the product of N input numbers.
 
 ---
 
