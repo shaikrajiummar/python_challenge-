@@ -225,6 +225,14 @@ All scripts for Day 11 are organized into the **`day11/`** directory:
 
 ---
 
+## 📂 Day 12 Project Structure
+
+All scripts for Day 12 are organized into the **`day12/`** directory:
+
+*   *Pending first program submission...*
+
+---
+
 ## 🏆 NxtWave Portal Progress
 
 ### Day 1 Progress:
