@@ -269,6 +269,7 @@ All scripts for Strings Day 1 are organized into the **`Strings/day1/`** directo
 *   **[`Strings/day1/extract_alphabets.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day1/extract_alphabets.py)**: Filters and prints only alphabetic characters from a string.
 *   **[`Strings/day1/extract_uppercase.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day1/extract_uppercase.py)**: Filters and prints only uppercase letters from a string.
 *   **[`Strings/day1/trim_stars.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day1/trim_stars.py)**: Trims leading and trailing asterisks from a string.
+*   **[`Strings/day1/lowercase_uppercase.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day1/lowercase_uppercase.py)**: Converts an input string to lowercase and uppercase, and prints both.
 
 ---
 
