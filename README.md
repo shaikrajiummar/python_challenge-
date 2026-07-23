@@ -257,6 +257,14 @@ All scripts for Day 12 are organized into the **`day12/`** directory:
 
 ---
 
+## 📂 Strings Day 1 Project Structure
+
+All scripts for Strings Day 1 are organized into the **`Strings/day1/`** directory:
+
+*   *Pending first program submission...*
+
+---
+
 ## 🏆 NxtWave Portal Progress
 
 ### Day 1 Progress:
