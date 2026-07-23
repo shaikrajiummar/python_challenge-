@@ -303,8 +303,9 @@ All scripts for Strings Day 1 are organized into the **`Strings/day1/`** directo
 ![Day 10 NxtWave Progress Part 1](day10/nxtwave_challenges_day10_1.png)
 ![Day 10 NxtWave Progress Part 2](day10/nxtwave_challenges_day10_2.png)
 
-### Strings Day 1 Progress:
+### Strings Day 1 (50 Days Challenge Day 10) Progress:
 ![Strings Day 1 NxtWave Progress](Strings/day1/nxtwave_challenges_strings_day1.png)
+![Strings Day 1 Challenge Banner](Strings/day1/strings_day1_banner.png)
 
 ---
 
