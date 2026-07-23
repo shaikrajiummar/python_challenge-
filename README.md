@@ -266,6 +266,7 @@ All scripts for Strings Day 1 are organized into the **`Strings/day1/`** directo
 *   **[`Strings/day1/format_date.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day1/format_date.py)**: Formats a hyphen-separated date with slashes.
 *   **[`Strings/day1/validate_pin.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day1/validate_pin.py)**: Checks if an input PIN consists entirely of digits.
 *   **[`Strings/day1/check_uppercase.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day1/check_uppercase.py)**: Checks if an input string consists entirely of uppercase letters.
+*   **[`Strings/day1/extract_alphabets.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day1/extract_alphabets.py)**: Filters and prints only alphabetic characters from a string.
 
 ---
 
