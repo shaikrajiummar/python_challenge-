@@ -263,6 +263,7 @@ All scripts for Strings Day 1 are organized into the **`Strings/day1/`** directo
 
 *   **[`Strings/day1/lowercase_string.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day1/lowercase_string.py)**: Converts an input string to lowercase.
 *   **[`Strings/day1/trim_string.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day1/trim_string.py)**: Trims leading and trailing spaces of a string.
+*   **[`Strings/day1/format_date.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day1/format_date.py)**: Formats a hyphen-separated date with slashes.
 
 ---
 
