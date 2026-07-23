@@ -271,6 +271,7 @@ All scripts for Strings Day 1 are organized into the **`Strings/day1/`** directo
 *   **[`Strings/day1/trim_stars.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day1/trim_stars.py)**: Trims leading and trailing asterisks from a string.
 *   **[`Strings/day1/lowercase_uppercase.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day1/lowercase_uppercase.py)**: Converts an input string to lowercase and uppercase, and prints both.
 *   **[`Strings/day1/check_python_file.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day1/check_python_file.py)**: Checks if a filename ends with the ".py" extension.
+*   **[`Strings/day1/validate_password.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day1/validate_password.py)**: Validates if a password contains uppercase, lowercase, and digits.
 
 ---
 
