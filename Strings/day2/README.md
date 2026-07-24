@@ -1,6 +1,8 @@
-# Strings - Day 2
+# Strings - Day 2 (50 Days Challenge Day 11)
 
 This directory contains the Python string challenges solved on Strings Day 2.
+
+![Strings Day 2 Challenge Banner](strings_day2_banner.png)
 
 ## 📂 Challenges List
 

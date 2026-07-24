@@ -327,6 +327,10 @@ All scripts for Strings Day 2 are organized into the **`Strings/day2/`** directo
 ![Strings Day 1 NxtWave Progress](Strings/day1/nxtwave_challenges_strings_day1.png)
 ![Strings Day 1 Challenge Banner](Strings/day1/strings_day1_banner.png)
 
+### Strings Day 2 (50 Days Challenge Day 11) Progress:
+![Strings Day 2 NxtWave Progress](Strings/day2/nxtwave_challenges_strings_day2.png)
+![Strings Day 2 Challenge Banner](Strings/day2/strings_day2_banner.png)
+
 ---
 
 ## 🚀 How to Run the Code
