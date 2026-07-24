@@ -16,3 +16,4 @@ This directory contains the Python string challenges solved on Strings Day 2.
 *   **[`nested_hollow_square.py`](nested_hollow_square.py)**: Prints a hollow square grid of characters (+ - |) using nested loops.
 *   **[`square_starting_from_s.py`](square_starting_from_s.py)**: Prints a square of row dimensions starting from S using nested loops.
 *   **[`kebab_case.py`](kebab_case.py)**: Converts camelCase/PascalCase string to kebab-case.
+*   **[`print_chars_by_indices.py`](print_chars_by_indices.py)**: Prints characters of a string at user-input indices on separate lines.
