@@ -12,3 +12,4 @@ This directory contains the Python string challenges solved on Strings Day 2.
 *   **[`row_index_square.py`](row_index_square.py)**: Prints a square of row indices.
 *   **[`count_even_digits.py`](count_even_digits.py)**: Checks if the count of even digits in an integer is greater than two.
 *   **[`star_triangle_nested.py`](star_triangle_nested.py)**: Prints a left-aligned star triangle using nested loops.
+*   **[`odd_star_triangle.py`](odd_star_triangle.py)**: Prints an odd star triangle using nested loops.
