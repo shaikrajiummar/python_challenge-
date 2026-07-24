@@ -1,16 +1,12 @@
-# Read the input integer as a string
-N_str = input()
+N = input()
 
-even_count = 0
-# Loop through each digit in the input string
-for char in N_str:
-    if char.isdigit():
-        digit = int(char)
-        if digit % 2 == 0:
-            even_count += 1
+count = 0
 
-# Check if the count of even digits is greater than two
-if even_count > 2:
+for digit in N:
+    if int(digit) % 2 == 0:
+        count += 1
+
+if count > 2:
     print("Count of even digits is greater than two")
 else:
     print("Count of even digits is not greater than two")
