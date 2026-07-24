@@ -288,6 +288,7 @@ All scripts for Strings Day 2 are organized into the **`Strings/day2/`** directo
 *   **[`Strings/day2/count_even_digits.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day2/count_even_digits.py)**: Checks if the count of even digits in an integer is greater than two.
 *   **[`Strings/day2/star_triangle_nested.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day2/star_triangle_nested.py)**: Prints a left-aligned star triangle using nested loops.
 *   **[`Strings/day2/odd_star_triangle.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day2/odd_star_triangle.py)**: Prints an odd star triangle using nested loops.
+*   **[`Strings/day2/nested_hollow_square.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day2/nested_hollow_square.py)**: Prints a hollow square grid of characters (+ - |) using nested loops.
 
 ---
 
