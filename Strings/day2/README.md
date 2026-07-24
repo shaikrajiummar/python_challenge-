@@ -14,3 +14,4 @@ This directory contains the Python string challenges solved on Strings Day 2.
 *   **[`star_triangle_nested.py`](star_triangle_nested.py)**: Prints a left-aligned star triangle using nested loops.
 *   **[`odd_star_triangle.py`](odd_star_triangle.py)**: Prints an odd star triangle using nested loops.
 *   **[`nested_hollow_square.py`](nested_hollow_square.py)**: Prints a hollow square grid of characters (+ - |) using nested loops.
+*   **[`square_starting_from_s.py`](square_starting_from_s.py)**: Prints a square of row dimensions starting from S using nested loops.
