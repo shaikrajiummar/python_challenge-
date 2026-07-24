@@ -283,6 +283,7 @@ All scripts for Strings Day 2 are organized into the **`Strings/day2/`** directo
 *   **[`Strings/day2/password_uppercase_check.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day2/password_uppercase_check.py)**: Validates if a password contains at least one uppercase character.
 *   **[`Strings/day2/palindrome.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day2/palindrome.py)**: Checks if a string is a palindrome case-insensitively.
 *   **[`Strings/day2/print_prefixes.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day2/print_prefixes.py)**: Prints prefixes of a string of increasing length.
+*   **[`Strings/day2/print_by_indices.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day2/print_by_indices.py)**: Reconstructs a string from characters at user-input indices.
 
 ---
 
