@@ -279,7 +279,7 @@ All scripts for Strings Day 1 are organized into the **`Strings/day1/`** directo
 
 All scripts for Strings Day 2 are organized into the **`Strings/day2/`** directory:
 
-*   *Pending first program submission...*
+*   **[`Strings/day2/swap_case.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day2/swap_case.py)**: Swaps the case of all characters in a string.
 
 ---
 
