@@ -285,6 +285,7 @@ All scripts for Strings Day 2 are organized into the **`Strings/day2/`** directo
 *   **[`Strings/day2/print_prefixes.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day2/print_prefixes.py)**: Prints prefixes of a string of increasing length.
 *   **[`Strings/day2/print_by_indices.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day2/print_by_indices.py)**: Reconstructs a string from characters at user-input indices.
 *   **[`Strings/day2/row_index_square.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day2/row_index_square.py)**: Prints a square of row indices.
+*   **[`Strings/day2/count_even_digits.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day2/count_even_digits.py)**: Checks if the count of even digits in an integer is greater than two.
 
 ---
 
