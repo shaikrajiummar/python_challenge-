@@ -290,6 +290,7 @@ All scripts for Strings Day 2 are organized into the **`Strings/day2/`** directo
 *   **[`Strings/day2/odd_star_triangle.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day2/odd_star_triangle.py)**: Prints an odd star triangle using nested loops.
 *   **[`Strings/day2/nested_hollow_square.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day2/nested_hollow_square.py)**: Prints a hollow square grid of characters (+ - |) using nested loops.
 *   **[`Strings/day2/square_starting_from_s.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day2/square_starting_from_s.py)**: Prints a square of row dimensions starting from S using nested loops.
+*   **[`Strings/day2/kebab_case.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day2/kebab_case.py)**: Converts camelCase/PascalCase string to kebab-case.
 
 ---
 
