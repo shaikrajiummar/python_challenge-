@@ -9,3 +9,4 @@ This directory contains the Python string challenges solved on Strings Day 2.
 *   **[`palindrome.py`](palindrome.py)**: Checks if a string is a palindrome case-insensitively.
 *   **[`print_prefixes.py`](print_prefixes.py)**: Prints prefixes of a string of increasing length.
 *   **[`print_by_indices.py`](print_by_indices.py)**: Reconstructs a string from characters at user-input indices.
+*   **[`row_index_square.py`](row_index_square.py)**: Prints a square of row indices.
