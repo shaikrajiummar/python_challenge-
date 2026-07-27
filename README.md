@@ -300,6 +300,7 @@ All scripts for Strings Day 2 are organized into the **`Strings/day2/`** directo
 All scripts for Strings Day 3 are organized into the **`Strings/day3/`** directory:
 
 *   **[`Strings/day3/check_palindrome.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day3/check_palindrome.py)**: Validates if a string is a palindrome case-insensitively.
+*   **[`Strings/day3/palindrome_v2.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day3/palindrome_v2.py)**: Checks if a string is a palindrome ignoring spaces and quotes.
 
 ---
 
