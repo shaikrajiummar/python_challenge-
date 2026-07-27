@@ -8,3 +8,4 @@ This directory contains the Python string challenges solved on Strings Day 3.
 *   **[`palindrome_v2.py`](palindrome_v2.py)**: Checks if a string is a palindrome ignoring spaces and quotes.
 *   **[`remove_vowels.py`](remove_vowels.py)**: Removes vowels from a string.
 *   **[`starts_or_ends_with.py`](starts_or_ends_with.py)**: Checks if a string starts or ends with another string.
+*   **[`classify_character.py`](classify_character.py)**: Classifies an input character as a digit, lowercase letter, uppercase letter, or special character.

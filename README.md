@@ -303,6 +303,7 @@ All scripts for Strings Day 3 are organized into the **`Strings/day3/`** directo
 *   **[`Strings/day3/palindrome_v2.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day3/palindrome_v2.py)**: Checks if a string is a palindrome ignoring spaces and quotes.
 *   **[`Strings/day3/remove_vowels.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day3/remove_vowels.py)**: Removes vowels from a string.
 *   **[`Strings/day3/starts_or_ends_with.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day3/starts_or_ends_with.py)**: Checks if a string starts or ends with another string.
+*   **[`Strings/day3/classify_character.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day3/classify_character.py)**: Classifies an input character as a digit, lowercase letter, uppercase letter, or special character.
 
 ---
 
