@@ -6,3 +6,4 @@ This directory contains the Python string challenges solved on Strings Day 3.
 
 *   **[`check_palindrome.py`](check_palindrome.py)**: Validates if a string is a palindrome case-insensitively.
 *   **[`palindrome_v2.py`](palindrome_v2.py)**: Checks if a string is a palindrome ignoring spaces and quotes.
+*   **[`remove_vowels.py`](remove_vowels.py)**: Removes vowels from a string.
