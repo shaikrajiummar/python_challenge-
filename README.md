@@ -308,6 +308,7 @@ All scripts for Strings Day 3 are organized into the **`Strings/day3/`** directo
 *   **[`Strings/day3/inverted_pyramid.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day3/inverted_pyramid.py)**: Prints an inverted pyramid of stars with custom spacing and indentation using nested loops.
 *   **[`Strings/day3/alternate_characters.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day3/alternate_characters.py)**: Combines even-indexed characters of the first string with odd-indexed characters of the second string.
 *   **[`Strings/day3/sum_of_even_numbers.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day3/sum_of_even_numbers.py)**: Calculates the sum of all even numbers from 1 to N.
+*   **[`Strings/day3/sum_of_odd_numbers.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day3/sum_of_odd_numbers.py)**: Calculates the sum of all odd numbers from 1 to N.
 
 ---
 
