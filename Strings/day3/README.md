@@ -2,6 +2,10 @@
 
 This directory contains the Python string challenges solved on Strings Day 3.
 
+![Strings Day 3 Progress Part 1](nxtwave_progress_1.png)
+![Strings Day 3 Progress Part 2](nxtwave_progress_2.png)
+![Strings Day 3 Progress Part 3](nxtwave_progress_3.png)
+
 ## 📂 Challenges List
 
 *   **[`check_palindrome.py`](check_palindrome.py)**: Validates if a string is a palindrome case-insensitively.

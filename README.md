@@ -351,6 +351,11 @@ All scripts for Strings Day 3 are organized into the **`Strings/day3/`** directo
 ![Strings Day 2 NxtWave Progress](Strings/day2/nxtwave_challenges_strings_day2.png)
 ![Strings Day 2 Challenge Banner](Strings/day2/strings_day2_banner.png)
 
+### Strings Day 3 Progress:
+![Strings Day 3 NxtWave Progress Part 1](Strings/day3/nxtwave_progress_1.png)
+![Strings Day 3 NxtWave Progress Part 2](Strings/day3/nxtwave_progress_2.png)
+![Strings Day 3 NxtWave Progress Part 3](Strings/day3/nxtwave_progress_3.png)
+
 ---
 
 ## 🚀 How to Run the Code
