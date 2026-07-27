@@ -12,3 +12,4 @@ This directory contains the Python string challenges solved on Strings Day 3.
 *   **[`word_triangle_inverted.py`](word_triangle_inverted.py)**: Prints prefixes of a word in decreasing length.
 *   **[`inverted_pyramid.py`](inverted_pyramid.py)**: Prints an inverted pyramid of stars with custom spacing and indentation using nested loops.
 *   **[`alternate_characters.py`](alternate_characters.py)**: Combines even-indexed characters of the first string with odd-indexed characters of the second string.
+*   **[`sum_of_even_numbers.py`](sum_of_even_numbers.py)**: Calculates the sum of all even numbers from 1 to N.
