@@ -14,3 +14,4 @@ This directory contains the Python string challenges solved on Strings Day 3.
 *   **[`alternate_characters.py`](alternate_characters.py)**: Combines even-indexed characters of the first string with odd-indexed characters of the second string.
 *   **[`sum_of_even_numbers.py`](sum_of_even_numbers.py)**: Calculates the sum of all even numbers from 1 to N.
 *   **[`sum_of_odd_numbers.py`](sum_of_odd_numbers.py)**: Calculates the sum of all odd numbers from 1 to N.
+*   **[`composite_number.py`](composite_number.py)**: Checks if a number has more than two factors (is a composite number).
