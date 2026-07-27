@@ -305,6 +305,7 @@ All scripts for Strings Day 3 are organized into the **`Strings/day3/`** directo
 *   **[`Strings/day3/starts_or_ends_with.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day3/starts_or_ends_with.py)**: Checks if a string starts or ends with another string.
 *   **[`Strings/day3/classify_character.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day3/classify_character.py)**: Classifies an input character as a digit, lowercase letter, uppercase letter, or special character.
 *   **[`Strings/day3/word_triangle_inverted.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day3/word_triangle_inverted.py)**: Prints prefixes of a word in decreasing length.
+*   **[`Strings/day3/inverted_pyramid.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day3/inverted_pyramid.py)**: Prints an inverted pyramid of stars with custom spacing and indentation using nested loops.
 
 ---
 
