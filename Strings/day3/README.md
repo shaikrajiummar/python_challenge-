@@ -15,3 +15,4 @@ This directory contains the Python string challenges solved on Strings Day 3.
 *   **[`sum_of_even_numbers.py`](sum_of_even_numbers.py)**: Calculates the sum of all even numbers from 1 to N.
 *   **[`sum_of_odd_numbers.py`](sum_of_odd_numbers.py)**: Calculates the sum of all odd numbers from 1 to N.
 *   **[`composite_number.py`](composite_number.py)**: Checks if a number has more than two factors (is a composite number).
+*   **[`alternating_grid.py`](alternating_grid.py)**: Prints an alternating row pattern (+ and -) of dimensions M x N using string multiplication.

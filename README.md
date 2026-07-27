@@ -310,6 +310,7 @@ All scripts for Strings Day 3 are organized into the **`Strings/day3/`** directo
 *   **[`Strings/day3/sum_of_even_numbers.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day3/sum_of_even_numbers.py)**: Calculates the sum of all even numbers from 1 to N.
 *   **[`Strings/day3/sum_of_odd_numbers.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day3/sum_of_odd_numbers.py)**: Calculates the sum of all odd numbers from 1 to N.
 *   **[`Strings/day3/composite_number.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day3/composite_number.py)**: Checks if a number has more than two factors (is a composite number).
+*   **[`Strings/day3/alternating_grid.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day3/alternating_grid.py)**: Prints an alternating row pattern (+ and -) of dimensions M x N using string multiplication.
 
 ---
 
