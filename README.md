@@ -319,7 +319,7 @@ All scripts for Strings Day 3 are organized into the **`Strings/day3/`** directo
 
 All scripts for Strings Day 4 are organized into the **`Strings/day4/`** directory:
 
-*   *Pending first program submission...*
+*   **[`Strings/day4/number_triangle.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day4/number_triangle.py)**: Prints a right-angled triangle of sequential numbers using nested loops.
 
 ---
 
