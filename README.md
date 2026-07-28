@@ -320,6 +320,7 @@ All scripts for Strings Day 3 are organized into the **`Strings/day3/`** directo
 All scripts for Strings Day 4 are organized into the **`Strings/day4/`** directory:
 
 *   **[`Strings/day4/number_triangle.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day4/number_triangle.py)**: Prints a right-angled triangle of sequential numbers using nested loops.
+*   **[`Strings/day4/armstrong_numbers.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day4/armstrong_numbers.py)**: Finds and prints all Armstrong numbers up to N.
 
 ---
 
