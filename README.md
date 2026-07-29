@@ -322,7 +322,17 @@ All scripts for Strings Day 4 are organized into the **`Strings/day4/`** directo
 *   **[`Strings/day4/number_triangle.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day4/number_triangle.py)**: Prints a right-angled triangle of sequential numbers using nested loops.
 *   **[`Strings/day4/armstrong_numbers.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day4/armstrong_numbers.py)**: Finds and prints all Armstrong numbers up to N.
 *   **[`Strings/day4/number_square.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day4/number_square.py)**: Prints a square pattern of sequential numbers from 1 to N.
-*   **[`Strings/day4/slanted_numbers.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day4/slanted_numbers.py)**: Prints a right-aligned slanted column of number S.
+*   **[`Strings/day4/right_aligned_triangle_starting_s.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day4/right_aligned_triangle_starting_s.py)**: Prints a right-aligned triangle of sequential numbers starting from S.
+*   **[`Strings/day4/floyds_triangle.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day4/floyds_triangle.py)**: Prints Floyd's Triangle of numbers up to N rows.
+*   **[`Strings/day4/numbers_grid.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day4/numbers_grid.py)**: Prints sequential numbers in an M x N grid.
+
+---
+
+## 📂 Strings Day 5 Project Structure
+
+All scripts for Strings Day 5 are organized into the **`Strings/day5/`** directory:
+
+*   *Pending first program submission...*
 
 ---
 
