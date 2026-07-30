@@ -345,6 +345,7 @@ All scripts for Strings Day 6 are organized into the **`Strings/day6/`** directo
 
 *   **[`Strings/day6/descending_number_triangle.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day6/descending_number_triangle.py)**: Prints a right-angled triangle of descending numbers starting from (K + S - 1) down to S.
 *   **[`Strings/day6/right_aligned_inverted_descending_triangle.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day6/right_aligned_inverted_descending_triangle.py)**: Prints a right-aligned inverted triangle of descending numbers starting from K down to 1.
+*   **[`Strings/day6/double_number_triangle.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day6/double_number_triangle.py)**: Prints a triangle pattern of sequential numbers incrementing then decrementing per row.
 
 ---
 

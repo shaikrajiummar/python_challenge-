@@ -6,3 +6,4 @@ This directory contains the Python string challenges solved on Strings Day 6.
 
 *   **[`descending_number_triangle.py`](descending_number_triangle.py)**: Prints a right-angled triangle of descending numbers starting from (K + S - 1) down to S.
 *   **[`right_aligned_inverted_descending_triangle.py`](right_aligned_inverted_descending_triangle.py)**: Prints a right-aligned inverted triangle of descending numbers starting from K down to 1.
+*   **[`double_number_triangle.py`](double_number_triangle.py)**: Prints a triangle pattern of sequential numbers incrementing then decrementing per row.
