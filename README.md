@@ -335,6 +335,7 @@ All scripts for Strings Day 5 are organized into the **`Strings/day5/`** directo
 *   **[`Strings/day5/primes_up_to_n.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day5/primes_up_to_n.py)**: Finds and prints all prime numbers from 2 up to N.
 *   **[`Strings/day5/primes_in_range.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day5/primes_in_range.py)**: Finds and prints all prime numbers in the range M to N.
 *   **[`Strings/day5/descending_number_square.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day5/descending_number_square.py)**: Prints a square pattern of descending numbers from N down to 1.
+*   **[`Strings/day5/number_triangle_descending.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day5/number_triangle_descending.py)**: Prints a right-aligned descending number triangle.
 
 ---
 
