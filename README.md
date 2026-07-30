@@ -395,6 +395,9 @@ All scripts for Strings Day 6 are organized into the **`Strings/day6/`** directo
 ![Strings Day 3 NxtWave Progress Part 2](Strings/day3/nxtwave_progress_2.png)
 ![Strings Day 3 NxtWave Progress Part 3](Strings/day3/nxtwave_progress_3.png)
 
+### Strings Day 6 (50 Days Challenge Day 13) Progress:
+![Strings Day 6 NxtWave Progress](Strings/day6/nxtwave_challenges_day6.png)
+
 ---
 
 ## 🚀 How to Run the Code
