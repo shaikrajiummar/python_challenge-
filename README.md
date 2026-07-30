@@ -347,6 +347,7 @@ All scripts for Strings Day 6 are organized into the **`Strings/day6/`** directo
 *   **[`Strings/day6/right_aligned_inverted_descending_triangle.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day6/right_aligned_inverted_descending_triangle.py)**: Prints a right-aligned inverted triangle of descending numbers starting from K down to 1.
 *   **[`Strings/day6/double_number_triangle.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day6/double_number_triangle.py)**: Prints a triangle pattern of sequential numbers incrementing then decrementing per row.
 *   **[`Strings/day6/expanding_number_rows.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day6/expanding_number_rows.py)**: Prints rows of sequential numbers where the number of elements per row increases by 2.
+*   **[`Strings/day6/triplet_sum.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day6/triplet_sum.py)**: Counts triplets (A, B, C) where A < B < C and A + B + C = N.
 
 ---
 
