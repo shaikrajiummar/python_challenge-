@@ -343,7 +343,7 @@ All scripts for Strings Day 5 are organized into the **`Strings/day5/`** directo
 
 All scripts for Strings Day 6 are organized into the **`Strings/day6/`** directory:
 
-*   *Pending first program submission...*
+*   **[`Strings/day6/descending_number_triangle.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day6/descending_number_triangle.py)**: Prints a right-angled triangle of descending numbers starting from (K + S - 1) down to S.
 
 ---
 
