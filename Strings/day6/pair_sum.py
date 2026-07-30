@@ -1,8 +1,19 @@
 # Read target sum N
 n = int(input())
+count = 0
 
-# Calculate count of unique pairs (A, B) where A < B and A + B = N
-count = (n - 1) // 2
+# Loop through all possible values of A
+for a in range(1, n + 1):
+    # Calculate what B must be for the sum to equal N
+    b = n - a
+    
+    # Check if the condition A < B is satisfied
+    if a < b:
+        count += 1
+    else:
+        # Since A keeps increasing, once A >= B, it will always be true. 
+        # We can break early to save time.
+        break
 
-# Print the count
+# Print the total count of valid pairs
 print(count)
