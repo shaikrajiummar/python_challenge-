@@ -11,3 +11,4 @@ This directory contains the Python string challenges solved on Strings Day 6.
 *   **[`triplet_sum.py`](triplet_sum.py)**: Counts triplets (A, B, C) where A < B < C and A + B + C = N.
 *   **[`pair_sum.py`](pair_sum.py)**: Counts unique pairs (A, B) where A < B and A + B = N.
 *   **[`descending_number_grid.py`](descending_number_grid.py)**: Prints sequential numbers in descending order in an M x N grid.
+*   **[`sequential_number_square.py`](sequential_number_square.py)**: Prints a square pattern of sequential numbers from 1 to N^2.

@@ -350,6 +350,7 @@ All scripts for Strings Day 6 are organized into the **`Strings/day6/`** directo
 *   **[`Strings/day6/triplet_sum.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day6/triplet_sum.py)**: Counts triplets (A, B, C) where A < B < C and A + B + C = N.
 *   **[`Strings/day6/pair_sum.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day6/pair_sum.py)**: Counts unique pairs (A, B) where A < B and A + B = N.
 *   **[`Strings/day6/descending_number_grid.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day6/descending_number_grid.py)**: Prints sequential numbers in descending order in an M x N grid.
+*   **[`Strings/day6/sequential_number_square.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day6/sequential_number_square.py)**: Prints a square pattern of sequential numbers from 1 to N^2.
 
 ---
 
