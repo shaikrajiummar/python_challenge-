@@ -5,3 +5,4 @@ This directory contains the Python string challenges solved on Strings Day 7.
 ## 📂 Challenges List
 
 *   **[`pythagorean_triplets.py`](pythagorean_triplets.py)**: Finds and counts Pythagorean triplets (A, B, C) where A^2 + B^2 = C^2 up to N.
+*   **[`inverted_descending_number_triangle.py`](inverted_descending_number_triangle.py)**: Prints an inverted right-angled triangle of descending numbers starting from (K + S - 1) down to S.

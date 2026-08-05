@@ -359,6 +359,7 @@ All scripts for Strings Day 6 are organized into the **`Strings/day6/`** directo
 All scripts for Strings Day 7 are organized into the **`Strings/day7/`** directory:
 
 *   **[`Strings/day7/pythagorean_triplets.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day7/pythagorean_triplets.py)**: Finds and counts Pythagorean triplets (A, B, C) where A^2 + B^2 = C^2 up to N.
+*   **[`Strings/day7/inverted_descending_number_triangle.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day7/inverted_descending_number_triangle.py)**: Prints an inverted right-angled triangle of descending numbers starting from (K + S - 1) down to S.
 
 ---
 
