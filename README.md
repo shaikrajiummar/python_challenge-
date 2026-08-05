@@ -363,6 +363,7 @@ All scripts for Strings Day 7 are organized into the **`Strings/day7/`** directo
 *   **[`Strings/day7/inverted_number_pyramid.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day7/inverted_number_pyramid.py)**: Prints an inverted pyramid pattern of sequential numbers from 1 to i.
 *   **[`Strings/day7/number_diamond.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day7/number_diamond.py)**: Prints a diamond pattern of sequential numbers.
 *   **[`Strings/day7/not_divisible_by_2_to_10.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day7/not_divisible_by_2_to_10.py)**: Counts numbers up to N not divisible by 2 to 10.
+*   **[`Strings/day7/composite_numbers_in_range.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day7/composite_numbers_in_range.py)**: Finds and prints all composite numbers in the range A to B.
 
 ---
 
