@@ -10,3 +10,4 @@ This directory contains the Python string challenges solved on Strings Day 7.
 *   **[`number_diamond.py`](number_diamond.py)**: Prints a diamond pattern of sequential numbers.
 *   **[`not_divisible_by_2_to_10.py`](not_divisible_by_2_to_10.py)**: Counts numbers up to N not divisible by 2 to 10.
 *   **[`composite_numbers_in_range.py`](composite_numbers_in_range.py)**: Finds and prints all composite numbers in the range A to B.
+*   **[`armstrong_numbers_in_range.py`](armstrong_numbers_in_range.py)**: Finds and prints all Armstrong numbers in the range M to N, or prints -1 if none exist.
