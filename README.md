@@ -369,6 +369,21 @@ All scripts for Strings Day 7 are organized into the **`Strings/day7/`** directo
 
 ---
 
+## 📂 Strings Day 8 Project Structure
+
+All scripts for Strings Day 8 are organized into the **`Strings/day8/`** directory:
+
+*   **[`Strings/day8/pythagorean_triplets.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day8/pythagorean_triplets.py)**: Finds and counts Pythagorean triplets (A, B, C) where A^2 + B^2 = C^2 up to N.
+*   **[`Strings/day8/inverted_descending_number_triangle.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day8/inverted_descending_number_triangle.py)**: Prints an inverted right-angled triangle of descending numbers starting from (K + S - 1) down to S.
+*   **[`Strings/day8/inverted_number_pyramid.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day8/inverted_number_pyramid.py)**: Prints an inverted pyramid pattern of sequential numbers from 1 to i.
+*   **[`Strings/day8/number_diamond.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day8/number_diamond.py)**: Prints a diamond pattern of sequential numbers.
+*   **[`Strings/day8/not_divisible_by_2_to_10.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day8/not_divisible_by_2_to_10.py)**: Counts numbers up to N not divisible by 2 to 10.
+*   **[`Strings/day8/composite_numbers_in_range.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day8/composite_numbers_in_range.py)**: Finds and prints all composite numbers in the range A to B.
+*   **[`Strings/day8/armstrong_numbers_in_range.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day8/armstrong_numbers_in_range.py)**: Finds and prints all Armstrong numbers in the range M to N, or prints -1 if none exist.
+*   **[`Strings/day8/descending_number_triangle_2.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day8/descending_number_triangle_2.py)**: Prints a right-angled triangle of descending numbers starting from (N + total - 1) down to N.
+
+---
+
 ## 🏆 NxtWave Portal Progress
 
 ### Day 1 Progress:
