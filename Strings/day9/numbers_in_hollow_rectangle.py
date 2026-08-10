@@ -6,9 +6,9 @@ n = int(input())
 for i in range(m):
     for j in range(n):
         num = 7 + j
+
         if i == 0 or i == m - 1 or j == 0 or j == n - 1:
             print(num, end=" ")
         else:
-            # Print spaces matching the length of the number plus the trailing space
-            print(" " * len(str(num)) + " ", end="")
+            print("  ", end="")
     print()
