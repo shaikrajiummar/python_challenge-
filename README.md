@@ -394,6 +394,7 @@ All scripts for Strings Day 9 are organized into the **`Strings/day9/`** directo
 *   **[`Strings/day9/numbers_in_hollow_pyramid.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day9/numbers_in_hollow_pyramid.py)**: Prints a hollow pyramid of numbers starting from 5.
 *   **[`Strings/day9/hollow_inverted_half_pyramid_numbers.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day9/hollow_inverted_half_pyramid_numbers.py)**: Prints a hollow inverted half pyramid of numbers.
 *   **[`Strings/day9/hollow_right_aligned_descending_triangle.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day9/hollow_right_aligned_descending_triangle.py)**: Prints a hollow right-aligned descending number triangle.
+*   **[`Strings/day9/numbers_in_hollow_rectangle.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day9/numbers_in_hollow_rectangle.py)**: Prints a hollow rectangle of numbers starting from 7.
 
 ---
 

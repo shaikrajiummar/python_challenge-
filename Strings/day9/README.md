@@ -10,3 +10,4 @@ This directory contains the Python string challenges solved on Strings Day 9.
 *   **[`numbers_in_hollow_pyramid.py`](numbers_in_hollow_pyramid.py)**: Prints a hollow pyramid of numbers starting from 5.
 *   **[`hollow_inverted_half_pyramid_numbers.py`](hollow_inverted_half_pyramid_numbers.py)**: Prints a hollow inverted half pyramid of numbers.
 *   **[`hollow_right_aligned_descending_triangle.py`](hollow_right_aligned_descending_triangle.py)**: Prints a hollow right-aligned descending number triangle.
+*   **[`numbers_in_hollow_rectangle.py`](numbers_in_hollow_rectangle.py)**: Prints a hollow rectangle of numbers starting from 7.
