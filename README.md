@@ -443,6 +443,9 @@ All scripts for Strings Day 9 are organized into the **`Strings/day9/`** directo
 ### Strings Day 6 (50 Days Challenge Day 13) Progress:
 ![Strings Day 6 NxtWave Progress](Strings/day6/nxtwave_challenges_day6.png)
 
+### Strings Day 9 (50 Days Challenge Day 15) Progress:
+![Strings Day 9 NxtWave Progress](Strings/day9/nxtwave_challenges_day9.png)
+
 ---
 
 ## 🚀 How to Run the Code
