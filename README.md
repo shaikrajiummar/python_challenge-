@@ -390,6 +390,7 @@ All scripts for Strings Day 9 are organized into the **`Strings/day9/`** directo
 
 *   **[`Strings/day9/number_pyramid.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day9/number_pyramid.py)**: Prints a pyramid pattern of sequential numbers from 1 to i.
 *   **[`Strings/day9/hollow_number_triangle.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day9/hollow_number_triangle.py)**: Prints a hollow right-angled triangle pattern of numbers.
+*   **[`Strings/day9/hollow_full_pyramid_numbers.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day9/hollow_full_pyramid_numbers.py)**: Prints a hollow full pyramid of numbers with spaces between digits.
 
 ---
 
