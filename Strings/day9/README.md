@@ -11,3 +11,4 @@ This directory contains the Python string challenges solved on Strings Day 9.
 *   **[`hollow_inverted_half_pyramid_numbers.py`](hollow_inverted_half_pyramid_numbers.py)**: Prints a hollow inverted half pyramid of numbers.
 *   **[`hollow_right_aligned_descending_triangle.py`](hollow_right_aligned_descending_triangle.py)**: Prints a hollow right-aligned descending number triangle.
 *   **[`numbers_in_hollow_rectangle.py`](numbers_in_hollow_rectangle.py)**: Prints a hollow rectangle of numbers starting from 7.
+*   **[`inverted_hollow_pyramid_numbers.py`](inverted_hollow_pyramid_numbers.py)**: Prints an inverted hollow pyramid of numbers starting from S.
