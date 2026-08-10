@@ -384,6 +384,14 @@ All scripts for Strings Day 8 are organized into the **`Strings/day8/`** directo
 
 ---
 
+## 📂 Strings Day 9 Project Structure
+
+All scripts for Strings Day 9 are organized into the **`Strings/day9/`** directory:
+
+*   **[`Strings/day9/number_pyramid.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day9/number_pyramid.py)**: Prints a pyramid pattern of sequential numbers from 1 to i.
+
+---
+
 ## 🏆 NxtWave Portal Progress
 
 ### Day 1 Progress:
