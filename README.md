@@ -389,6 +389,7 @@ All scripts for Strings Day 8 are organized into the **`Strings/day8/`** directo
 All scripts for Strings Day 9 are organized into the **`Strings/day9/`** directory:
 
 *   **[`Strings/day9/number_pyramid.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day9/number_pyramid.py)**: Prints a pyramid pattern of sequential numbers from 1 to i.
+*   **[`Strings/day9/hollow_number_triangle.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day9/hollow_number_triangle.py)**: Prints a hollow right-angled triangle pattern of numbers.
 
 ---
 
