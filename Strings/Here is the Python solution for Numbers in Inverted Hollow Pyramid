@@ -1,0 +1,23 @@
+N = int(input())
+S = int(input())
+
+current_number = S
+
+for row in range(1, N + 1):
+    # 1. Print leading spaces for alignment
+    leading_spaces = " " * (row - 1)
+    
+    # 2. Number of elements in the current row
+    total_cols = N - row + 1
+    
+    row_content = ""
+    for col in range(1, total_cols + 1):
+        # Print numbers on boundaries (first row, first col, or last col)
+        if row == 1 or col == 1 or col == total_cols:
+            row_content += str(current_number) + " "
+            current_number += 1
+        else:
+            # Two spaces for inner hollow spots
+            row_content += "  "
+
+    print(leading_spaces + row_content)
