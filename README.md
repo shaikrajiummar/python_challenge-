@@ -399,6 +399,21 @@ All scripts for Strings Day 9 are organized into the **`Strings/day9/`** directo
 
 ---
 
+## 📂 Strings Day 10 Project Structure
+
+All scripts for Strings Day 10 are organized into the **`Strings/day10/`** directory:
+
+*   **[`Strings/day10/number_pyramid.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day10/number_pyramid.py)**: Prints a pyramid pattern of sequential numbers from 1 to i.
+*   **[`Strings/day10/hollow_number_triangle.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day10/hollow_number_triangle.py)**: Prints a hollow right-angled triangle pattern of numbers.
+*   **[`Strings/day10/hollow_full_pyramid_numbers.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day10/hollow_full_pyramid_numbers.py)**: Prints a hollow full pyramid of numbers with spaces between digits.
+*   **[`Strings/day10/numbers_in_hollow_pyramid.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day10/numbers_in_hollow_pyramid.py)**: Prints a hollow pyramid of numbers starting from 5.
+*   **[`Strings/day10/hollow_inverted_half_pyramid_numbers.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day10/hollow_inverted_half_pyramid_numbers.py)**: Prints a hollow inverted half pyramid of numbers.
+*   **[`Strings/day10/hollow_right_aligned_descending_triangle.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day10/hollow_right_aligned_descending_triangle.py)**: Prints a hollow right-aligned descending number triangle.
+*   **[`Strings/day10/numbers_in_hollow_rectangle.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day10/numbers_in_hollow_rectangle.py)**: Prints a hollow rectangle of numbers starting from 7.
+*   **[`Strings/day10/inverted_hollow_pyramid_numbers.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day10/inverted_hollow_pyramid_numbers.py)**: Prints an inverted hollow pyramid of numbers starting from S.
+
+---
+
 ## 🏆 NxtWave Portal Progress
 
 ### Day 1 Progress:
