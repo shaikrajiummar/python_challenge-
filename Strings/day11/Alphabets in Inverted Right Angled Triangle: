@@ -1,0 +1,8 @@
+n = int(input())
+alphabets = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+
+for i in range(n, 0, -1):
+    row = ""
+    for j in range(i):
+        row += alphabets[j] + " "
+    print(row)
