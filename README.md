@@ -419,6 +419,7 @@ All scripts for Strings Day 10 are organized into the **`Strings/day10/`** direc
 All scripts for Strings Day 11 are organized into the **`Strings/day11/`** directory:
 
 *   **[`Strings/day11/half_diamond_star.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day11/half_diamond_star.py)**: Prints a half diamond (arrowhead) pattern of stars pointing right.
+*   **[`Strings/day11/alphabet_square.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day11/alphabet_square.py)**: Prints an N x N square pattern of alphabetical letters.
 
 ---
 
