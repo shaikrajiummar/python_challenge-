@@ -1,0 +1,21 @@
+s = int(input())
+n = int(input())
+
+grid = {}
+curr = s
+
+# Assign numbers from bottom row to top row, right to left
+for r in range(n, 0, -1):
+    for c in range(n, r - 1, -1):
+        grid[(r, c)] = curr
+        curr += 1
+
+# Print the hollow inverted triangle pattern
+for r in range(1, n + 1):
+    row_str = "  " * (r - 1)
+    for c in range(r, n + 1):
+        if r == 1 or r == n or c == r or c == n:
+            row_str += str(grid[(r, c)]) + " "
+        else:
+            row_str += "  "
+    print(row_str)
