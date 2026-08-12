@@ -1,0 +1,34 @@
+s = int(input())
+n = int(input())
+
+curr = s
+
+for i in range(1, n + 1):
+    # Leading spaces for row i (i - 1 spaces)
+    spaces = " " * (i - 1)
+    
+    if i == 1:
+        # First row: print 2 * n - 1 numbers
+        row_str = ""
+        for _ in range(2 * n - 1):
+            row_str += str(curr) + " "
+            curr += 1
+        print(spaces + row_str)
+        
+    elif i == n:
+        # Last row: print 1 number
+        print(spaces + str(curr) + " ")
+        curr += 1
+        
+    else:
+        # Middle hollow rows: left number, middle spaces, right number
+        left_num = str(curr)
+        curr += 1
+        
+        # Inner space width corresponds to (2 * (n - i) - 1) numbers with spaces
+        inner_spaces = " " * (2 * (2 * (n - i) - 1))
+        
+        right_num = str(curr)
+        curr += 1
+        
+        print(spaces + left_num + " " + inner_spaces + right_num + " ")
