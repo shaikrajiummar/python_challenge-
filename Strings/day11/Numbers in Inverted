@@ -1,0 +1,15 @@
+s = int(input())
+n = int(input())
+
+curr = s
+
+for i in range(1, n + 1):
+    row_str = " " * (i - 1)
+    cols = n - i + 1
+    for j in range(1, cols + 1):
+        if i == 1 or j == 1 or j == cols:
+            row_str += str(curr) + " "
+        else:
+            row_str += "  "  # Replace hollow cells with 2 spaces
+        curr += 1
+    print(row_str)
