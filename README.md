@@ -414,6 +414,14 @@ All scripts for Strings Day 10 are organized into the **`Strings/day10/`** direc
 
 ---
 
+## 📂 Strings Day 11 Project Structure
+
+All scripts for Strings Day 11 are organized into the **`Strings/day11/`** directory:
+
+*   **[`Strings/day11/half_diamond_star.py`](file:///C:/Users/shiak/.gemini/antigravity/scratch/python-loops-mastery/Strings/day11/half_diamond_star.py)**: Prints a half diamond (arrowhead) pattern of stars pointing right.
+
+---
+
 ## 🏆 NxtWave Portal Progress
 
 ### Day 1 Progress:
