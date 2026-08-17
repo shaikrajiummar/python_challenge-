@@ -1,7 +1,8 @@
 n = int(input())
 
 cumulative_sum = 0
-for _ in range(n):
+for i in range(1, n + 1):
     num = int(input())
     cumulative_sum += num
-    print(cumulative_sum)
+    avg = cumulative_sum / i
+    print(round(avg, 3))
