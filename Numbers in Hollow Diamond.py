@@ -1,0 +1,19 @@
+n = int(input())
+
+# Upper half (including middle row)
+for i in range(1, n + 1):
+    spaces = " " * (n - i)
+    if i == 1:
+        print(spaces + "1 ")
+    else:
+        inner_spaces = " " * (2 * (i - 2))
+        print(spaces + "1 " + inner_spaces + str(i) + " ")
+
+# Lower half
+for i in range(n - 1, 0, -1):
+    spaces = " " * (n - i)
+    if i == 1:
+        print(spaces + "1 ")
+    else:
+        inner_spaces = " " * (2 * (i - 2))
+        print(spaces + "1 " + inner_spaces + str(i) + " ")
